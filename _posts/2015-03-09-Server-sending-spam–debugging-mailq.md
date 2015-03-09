@@ -3,6 +3,8 @@ layout: post
 title: Server sending spam – debugging mailq
 ---
 
+A standard process for debugging the mailq on Ubuntu in terminal
+
 <b>Stop mail processing:</b>
 `Service postfix stop`
 
